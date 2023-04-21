@@ -1,6 +1,6 @@
 # Online payments fraud detection
 
-This is a project from the machine learning I class, using this [dataset](https://github.com/AbeRodz/online-payments-fraud-detection.git)
+This is a project from the machine learning I class, using this [dataset](https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset)
 
 ## Project goal
 
